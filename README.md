@@ -2,10 +2,10 @@
 A homebrew minigame for the Game Boy Advance!
 
 ## Screenshots
-![titleScreen](https://imgur.com/a/KoL5zL2)
-![gameplay1](https://imgur.com/a/T41WjyV)
-![gameplay2](https://imgur.com/a/HA7AJ8W)
-![gameOverScreen](https://imgur.com/a/M7B5iGj)
+![titleScreen](https://i.imgur.com/x6Egr7D.png)
+![gameplay1](https://i.imgur.com/p5RftcY.png)
+![gameplay2](https://i.imgur.com/r6aq4zQ.png)
+![gameOverScreen](https://i.imgur.com/VksFJi1.png)
 
 ## About
 This is a little game I made for the Game Boy Advance. The game was my submission
